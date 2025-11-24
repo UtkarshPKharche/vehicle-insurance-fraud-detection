@@ -1,5 +1,3 @@
-# vehicle-insurance-fraud-detection
-Machine learning project detecting fraudulent vehicle insurance claims, with EDA, feature engineering, and a fraud prediction model.
 # Vehicle Insurance Fraud Detection
 
 This project focuses on detecting **fraudulent vehicle insurance claims** using machine learning.
